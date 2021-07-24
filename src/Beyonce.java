@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class Beyonce {
     public static void coinCounter(double dimes, double pennies, double nickles, double quarters, double dollars){
 //        verified = 29;
@@ -33,18 +31,10 @@ public class Beyonce {
         CoinCounter();
         coinCounter(.10,.01,.05,.25, 1.00);
         System.out.println("Don't forget to update me!");
-
-//        anouncePurchase();
-
-
+        
+    }
     }
 
-//    private static void anouncePurchase() {
-//        List<String> smallPurchases =  new ArrayList<>();
-//        smallPurchases.add("fruit");
-//        smallPurchases.add("deo");
-//        smallPurchases.add("waterchest");
-//        smallPurchases.add("water");
-//        System.out.println(smallPurchases);
-//    }
-}
+
+
+  
