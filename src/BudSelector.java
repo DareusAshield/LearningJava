@@ -20,11 +20,10 @@ public class BudSelector {
 
         public static void budSelectorMethod(){
             Object[] budSelection = {
-                    "dukale",
-//                    4o 5d 8k 1n
-                    "organics",
-                    " natunuket",
-                    "krispy"
+                    "Gmo",
+                    "tangerine",
+                    "ice cream cake",
+                    "lemon kush"
 
             };
             for(Object bud:
